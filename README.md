@@ -5,7 +5,7 @@ Można je wykorzystywać TYLKO w oficjalnej aplikacji Sagitta Fandom.
 Kopiowanie bazy (kalendarium, książki, spotkania, publikacje) w celu stworzenia własnej apki / serwisu = naruszenie praw autorskich.
 
 Chcesz dodać nową rocznicę / książkę / spotkanie? → pull request tutaj.
-Chcesz użyć danych komercyjnie / w innym projekcie? → napisz na sagitta@kmfsagitta.pl
+Chcesz użyć danych komercyjnie / w innym projekcie? → napisz na kontakt@kmfsagitta.pl
 
 ## Aktualne pliki danych
 
