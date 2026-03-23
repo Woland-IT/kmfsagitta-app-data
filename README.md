@@ -1,30 +1,22 @@
 ⚠️ WSZYSTKIE PRAWA ZASTRZEŻONE – ALL RIGHTS RESERVED ⚠️
 
-Te dane NIE SĄ open-source w klasycznym rozumieniu.
-Można je oglądać i używać TYLKO w oficjalnej aplikacji Sagitta Fandom.
-Kopiowanie, forkowanie w celu stworzenia własnej aplikacji = naruszenie praw autorskich.
+Dane w tym repo NIE SĄ open-source w klasycznym sensie.
+Można je wykorzystywać TYLKO w oficjalnej aplikacji Sagitta Fandom.
+Kopiowanie bazy (kalendarium, książki, spotkania, publikacje) w celu stworzenia własnej apki / serwisu = naruszenie praw autorskich.
 
-Chcesz dodać rocznicę / książkę / spotkanie? → zrób pull request tutaj.
-Chcesz użyć danych komercyjnie? → napisz maila → kontakt@kmfsagitta.pl
+Chcesz dodać nową rocznicę / książkę / spotkanie? → pull request tutaj.
+Chcesz użyć danych komercyjnie / w innym projekcie? → napisz na sagitta@kmfsagitta.pl
 
+## Aktualne pliki danych
 
-# kmfsagitta-app-data
+| Plik                     | Zawartość                              | Ostatnia aktualizacja |
+|--------------------------|----------------------------------------|-----------------------|
+| KMF-kalendarium.json     | rocznice popkulturowe + wydarzenia specjalne | marzec 2026          |
+| KMF-ksiazki.json         | książki do losowania „Książka dnia”   | marzec 2026          |
+| KMF-spotkania.json       | terminarz spotkań klubu                | marzec 2026 (najnowszy) |
+| KMF-publikacje.json      | publikacje / wydania klubowe           | marzec 2026          |
 
-Zewnętrzne dane dla oficjalnej aplikacji mobilnej **Sagitta** (Flutter / Android)
-
-![Sagitta](https://github.com/Woland-IT/kmfsagitta-app-data/raw/main/assets/banner.png)  
-*(jeśli masz banner – dodaj go do repo i wstaw prawdziwy link)*
-
-## Co znajduje się w tym repozytorium?
-
-Pliki JSON z danymi, które aplikacja Sagitta Fandom pobiera w locie:
-
-| Plik                        | Zawartość                                      | Aktualizowany |
-|-----------------------------|------------------------------------------------|---------------|
-| `KMF-kalendarium.json`      | rocznice popkulturowe i wydarzenia specjalne   | co 1–2 miesiące |
-| `KMF-ksiazki.json`          | baza książek do losowania „Książka dnia”       | nieregularnie |
-| `KMF-spotkania.json`        | terminarz spotkań klubu Sagitta                | po każdym spotkaniu / planie |
-| `KMF-publikacje.json`       | baza publikacji / wydań klubowych              | nieregularnie |
+Dane są regularnie aktualizowane – aplikacja pobiera je dynamicznie z GitHub raw.
 
 ## Licencja i warunki korzystania
 
