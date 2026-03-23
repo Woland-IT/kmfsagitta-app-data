@@ -17,16 +17,3 @@ Chcesz użyć danych komercyjnie / w innym projekcie? → napisz na kontakt@kmfs
 | KMF-publikacje.json      | publikacje / wydania klubowe           | marzec 2026          |
 
 Dane są regularnie aktualizowane – aplikacja pobiera je dynamicznie z GitHub raw.
-
-## Licencja i warunki korzystania
-
-**Pliki JSON są udostępniane na licencji:**
-
-MIT License + **klauzula non-commercial**  
-→ wolno używać, modyfikować, kopiować **wyłącznie w celach niekomercyjnych**  
-→ **zabronione jest użycie komercyjne** (monetyzacja, reklama, sprzedaż, subskrypcje itp.) bez pisemnej zgody KMF Sagitta
-
-Pełna treść licencji → zobacz plik [LICENSE](./LICENSE)
-
-**Chcesz wykorzystać dane w projekcie komercyjnym / zarobkowym?**  
-→ napisz na kontakt@kmfsagitta.pl – porozmawiamy o indywidualnej licencji.
