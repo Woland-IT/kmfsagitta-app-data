@@ -11,6 +11,16 @@
   },
   {
     "id": 2,
+    "title": "Z Sagitty do Pyrlandii – publikacja okolicznościowa",
+    "subtitle": "",
+    "description": "Z okazji 10. urodzin Poznańskiego Towarzystwa Miłośników Tolkiena „Drużyna Pyrlandii” wydaliśmy okolicznościową publikację podsumowującą naszą wspólną drogę. W publikacji znaleźć można teksty Tomasza Stępińskiego, Pawła Jezierskiego, Moniki Gołąb, Mariusza Górskiego i Melodii Orzelskiej. Oprócz tego publikacja zawiera zdjęcia, plakaty i zaproszenia, jakie towarzyszyły naszym wspólnym spotkaniom, oraz wybraną bibliografię z bloga kmfsagitta.pl. Dużą atrakcją publikacji są autografy, jakie udało nam się zebrać. Zachęcamy do pobrania publikacji i lektury!",
+    "image_url": "https://kmfsagitta.pl/wp-content/uploads/2026/01/Zrzut-ekranu-2026-01-11-o-11.57.47.jpeg",
+    "external_link": "https://kmfsagitta.pl/2026/01/15/z-sagitty-do-pyrlandii-publikacja-okolicznosciowa/",
+    "published_at": "2026-02-26 14:35:06",
+    "is_featured": false
+  },
+  {
+    "id": 3,
     "title": "Kalendarium popkulturowe 2026",
     "subtitle": "",
     "description": "Rozbudowane kalendarium popkulturowe na rok 2026 – filmy, gry, komiksy, muzyka, komputery, seriale, duchologia, manga/anime, przełomowe daty z historii kultury i technologii. Inspiracja do felietonów, prac i badań, frajda w odkrywaniu faktów, ludzi i wydarzeń (często mniej znanych), przy współudziale Pawła „Padre” Jezierskiego, Tomasza „Kudłatego” Tomczyka, Mariusza „Mario” Górskiego, Michała „Miszy” Nagielskiego, Bartosza „Barlimana” Rebelskiego, Anastasiji „Ainsel” Kegel, Wojciecha Przylipiaka i Bazylego. Dostępne jako PDF i bot na Discordzie.",
@@ -20,7 +30,7 @@
     "is_featured": false
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Nadal podążamy tam, gdzie innym się nie chce",
     "subtitle": "",
     "description": "Z okazji jubileuszowego, 10. sezonu Klubu Miłośników Fantastyki „Sagitta”, przygotowaliśmy dla was wyjątkową publikację zatytułowaną „Nadal podążamy tam, gdzie innym się nie chce”. Znajdziecie w niej teksty autorstwa Marcina Osucha, Melodii Orzelskiej, Artura „Bazylego” Łukasiewicza, Tomasza „Kudłatego” Tomczyka, Roberta Wolniaka, Pawła „Padre” Jezierskiego, Wojciecha „Malarza” Kawalca, Sławomira „Bombadila” Miklasa, Tomasza „Kruszona” Stępińskiego, Mariusza „Mario” Górskiego oraz Igora Banaszczyka. Po części tekstowej znajduje się również komiks Pawła Gierczaka!",
@@ -30,7 +40,7 @@
     "is_featured": false
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Almanach Biura Wystaw Artystycznych w Sieradzu",
     "subtitle": "",
     "description": "Zbiór katalogów i książek wydanych przez BWA w Sieradzu, posiadanych przez placówkę, artykułów na temat BWA oraz teczki 'Szkatuły Piórem Rzeźbionej' Jana Matusiaka z informacjami i wycinkami o placówce. Wydany z okazji 50-lecia BWA, zawiera życzenia od członków KMF „Sagitta” dla pracowników i artystów związanych z BWA.",
@@ -40,7 +50,7 @@
     "is_featured": false
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Almanach tolkienowski. Tolkien w Fantastyce i Nowej Fantastyce",
     "subtitle": "",
     "description": "Nasza nowa publikacja jest już dostępna! Almanach tolkienowski to spis artykułów, wywiadów, recenzji i innych tekstów, które pojawiły się na łamach magazynu Fantastyka i Nowa Fantastyka w latach 1982-2009. Kruszon spisał nie tylko artykuły, które dotyczyły twórczości profesora Tolkiena, ale także te, w których pojawiają się nawiązania do jego twórczości. Możecie zobaczyć owoce tej pracy i poznać, co i jak myśleli wcześniejsi miłośnicy twórczości Tolkiena. W publikacji znajduje się ponad 420 tekstów, dzięki którym poczujecie ducha Śródziemia. Między innymi odnajdziecie pierwszy tekst poświęcony Tolkienowi, reklamę klubu czy teksty ze złotej ery magazynu z lat 90. Jeśli jesteście miłośnikami twórczości Mistrza to na pewno znajdziecie coś dla siebie a Almanach zachęci was do dalszych poszukiwań i odkrywania ciekawostek związanych z autorem.",
@@ -50,7 +60,7 @@
     "is_featured": false
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Kalendarium popkulturowe 2025",
     "subtitle": "",
     "description": "Rozbudowane kalendarium popkulturowe na rok 2025 – filmy, gry, komiksy, muzyka, komputery, seriale, duchologia, manga/anime, przełomowe daty z historii kultury i technologii. Inspiracja do felietonów, prac i badań, frajda w odkrywaniu faktów, ludzi i wydarzeń (często mniej znanych), przy współudziale Pawła „Padre” Jezierskiego, Tomasza „Kudłatego” Tomczyka, Mariusza „Mario” Górskiego, Michała „Miszy” Nagielskiego, Bartosza „Barlimana” Rebelskiego, Anastasiji „Ainsel” Kegel, Wojciecha Przylipiaka i Bazylego. Dostępne jako PDF i bot na Discordzie.",
@@ -60,7 +70,7 @@
     "is_featured": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Almanach Nowej Fantastyki 1990-2009",
     "subtitle": "",
     "description": "Spis artykułów, wywiadów, relacji, opowiadań, felietonów i rubryki 'Wśród fanów' z magazynu Nowa Fantastyka 1990-2009 – bibliografia dla badaczy, dziennikarzy, fanów i prelegentów, powstała w latach 2022-2024 jako pierwszy tom serii almanachów magazynów fantastycznych..",
@@ -70,7 +80,7 @@
     "is_featured": false
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Złota era polskiego komiksu",
     "subtitle": "",
     "description": "Zbiór wywiadów, relacji, recenzji i tekstów o współczesnym polskim komiksie – teza o 'złotej erze' z bogactwem twórców, stylów i niezależnych inicjatyw, od uznanych po debiutantów, badaczy i fanów.",
@@ -80,7 +90,7 @@
     "is_featured": false
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Back to Vintage. Girls in Space",
     "subtitle": "",
     "description": "Nasza kolejna publikacja klubowa dotyczy kobiet w szeroko pojętej fantastyce. Nie psując przyjemności z lektury naszych wstępniaków do publikacji napiszę jedynie, że nie zawsze są to tylko ładne panie w wersji vintage czy retro, chociaż dla wielu science fiction automatycznie kojarzy się z pin-up girls :}",
@@ -90,22 +100,12 @@
     "is_featured": false
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Kalendarium popkulturowe 2024",
     "subtitle": "",
     "description": "Rozbudowane kalendarium popkulturowe na rok 2024 z rocznicami, premierami i wydarzeniami ze świata filmów, gier, komiksów, muzyki, komputerów, seriali, duchologii, mangi/anime oraz przełomowych dat z historii kultury i technologii – przy współudziale Pawła „Padre” Jezierskiego, Tomasza „Kudłatego” Tomczyka, Mariusza „Mario” Górskiego, Michała „Miszy” Nagielskiego, Bartosza „Barlimana” Rebelskiego, Anastasiji „Ainsel” Kegel i Wojciecha Przylipiaka. Dostępne jako PDF i bot na Discordzie.",
     "image_url": "https://kmfsagitta.pl/wp-content/uploads/2023/11/image.png",
     "external_link": "https://kmfsagitta.pl/2023/12/04/kalendarium-popkulturowe-2024/",
-    "published_at": "2026-02-26 14:36:58",
-    "is_featured": false
-  },
-  {
-    "id": 11,
-    "title": "Back to Vintage SF!",
-    "subtitle": "",
-    "description": "Vintage to bardzo nośne określenie, które oznacza… właśnie, co? Starocie, artefakty, stare ale jare, stare ale nie aż tak muzealnie, chociaż z pewnością cenne! Przystępując do pracy nad kolejną publikacją klubową uznaliśmy, że dobra pulpa nigdy nie się starzeje, podobnie jak klasyczne wątki i motywy science fiction.",
-    "image_url": "https://kmfsagitta.pl/wp-content/uploads/2023/11/vn.jpg",
-    "external_link": "https://kmfsagitta.pl/2023/11/27/back-to-vintage-sf/",
     "published_at": "2026-02-26 14:36:58",
     "is_featured": false
   },
@@ -121,6 +121,16 @@
   },
   {
     "id": 13,
+    "title": "Back to Vintage SF!",
+    "subtitle": "",
+    "description": "Vintage to bardzo nośne określenie, które oznacza… właśnie, co? Starocie, artefakty, stare ale jare, stare ale nie aż tak muzealnie, chociaż z pewnością cenne! Przystępując do pracy nad kolejną publikacją klubową uznaliśmy, że dobra pulpa nigdy nie się starzeje, podobnie jak klasyczne wątki i motywy science fiction.",
+    "image_url": "https://kmfsagitta.pl/wp-content/uploads/2023/11/vn.jpg",
+    "external_link": "https://kmfsagitta.pl/2023/11/27/back-to-vintage-sf/",
+    "published_at": "2026-02-26 14:36:58",
+    "is_featured": false
+  },
+  {
+    "id": 14,
     "title": "Jest steampunkowo!",
     "subtitle": "",
     "description": "VSteampunkowa fala ogarnęła niegdyś cały świat, podobnie zresztą jak i bardziej popularny cyberpunk. Klimatyczny rozwój technologii, marzenia i oczekiwania a w tle… zagubiony człowiek. Steampunk idealnie nadaje się do tworzenia historii kontrfaktycznych, alternatywnych wizji dziejów, bo przecież wszystko mogło się kiedyś wydarzyć, czyż nie? Jeśli lubicie klimaty retro wymieszane z reklamą prasową z polskimi wątkami – zapraszamy do pobrania i obejrzenia naszej publikacji klubowej – Jest steampunkowo! ",
@@ -130,7 +140,7 @@
     "is_featured": false
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Skąd się bierze humor wszelki? O twórczości komiksowej Tadeusza Baranowskiego",
     "subtitle": "",
     "description": "Dawno, dawno temu wpadłem na pomysł, żeby stworzyć publikację o rysowniku, który miał spory wpływ na moje życie, nie tylko komiksowe. Będąc zaprzysięgłym fanem tegoż rysownika, czyli klasyka polskiego komiksu Tadeusza Baranowskiego, zacząłem zanęcać ludzi, aby popełnili swoje teksty, powspominali jak zaczęła się ich przygoda z komiksami wyjątkowymi, artystycznymi i niekonwencjonalnymi z dużą dawką absurdu.",
@@ -140,7 +150,7 @@
     "is_featured": false
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Almanach sieradzki – Różne różności o regionie sieradzkim",
     "subtitle": "",
     "description": "Dawno, dawno temu wpadłem na pomysł, żeby stworzyć publikację o rysowniku, który miał spory wpływ na moje życie, nie tylko komiksowe. Będąc zaprzysięgłym fanem tegoż rysownika, czyli klasyka polskiego komiksu Tadeusza Baranowskiego, zacząłem zanęcać ludzi, aby popełnili swoje teksty, powspominali jak zaczęła się ich przygoda z komiksami wyjątkowymi, artystycznymi i niekonwencjonalnymi z dużą dawką absurdu.",
