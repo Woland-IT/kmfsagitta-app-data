@@ -23,9 +23,29 @@
     "id": 3,
     "title": "Nadal podążamy tam, gdzie innym się nie chce",
     "subtitle": "",
-    "description": "okazji jubileuszowego, 10. sezonu Klubu Miłośników Fantastyki „Sagitta”, przygotowaliśmy dla was wyjątkową publikację zatytułowaną „Nadal podążamy tam, gdzie innym się nie chce”. Znajdziecie w niej teksty autorstwa Marcina Osucha, Melodii Orzelskiej, Artura „Bazylego” Łukasiewicza, Tomasza „Kudłatego” Tomczyka, Roberta Wolniaka, Pawła „Padre” Jezierskiego, Wojciecha „Malarza” Kawalca, Sławomira „Bombadila” Miklasa, Tomasza „Kruszona” Stępińskiego, Mariusza „Mario” Górskiego oraz Igora Banaszczyka. Po części tekstowej znajduje się również komiks Pawła Gierczaka!",
+    "description": "Z okazji jubileuszowego, 10. sezonu Klubu Miłośników Fantastyki „Sagitta”, przygotowaliśmy dla was wyjątkową publikację zatytułowaną „Nadal podążamy tam, gdzie innym się nie chce”. Znajdziecie w niej teksty autorstwa Marcina Osucha, Melodii Orzelskiej, Artura „Bazylego” Łukasiewicza, Tomasza „Kudłatego” Tomczyka, Roberta Wolniaka, Pawła „Padre” Jezierskiego, Wojciecha „Malarza” Kawalca, Sławomira „Bombadila” Miklasa, Tomasza „Kruszona” Stępińskiego, Mariusza „Mario” Górskiego oraz Igora Banaszczyka. Po części tekstowej znajduje się również komiks Pawła Gierczaka!",
     "image_url": "https://kmfsagitta.pl/wp-content/uploads/2025/06/plakat-ksiazka-scaled.jpg",
     "external_link": "https://kmfsagitta.pl/2025/06/23/nadal-podazamy-tam-gdzie-innym-sie-nie-chce-publikacja-okolicznosciowa-z-okazji-dziesieciolecia-klubu-milosnikow-fantastyki-sagitta/",
+    "published_at": "2026-02-26 14:36:58.040799+00",
+    "is_featured": false
+  },
+  {
+    "id": 4,
+    "title": "Almanach Biura Wystaw Artystycznych w Sieradzu",
+    "subtitle": "",
+    "description": "Zbiór katalogów i książek wydanych przez BWA w Sieradzu, posiadanych przez placówkę, artykułów na temat BWA oraz teczki 'Szkatuły Piórem Rzeźbionej' Jana Matusiaka z informacjami i wycinkami o placówce. Wydany z okazji 50-lecia BWA, zawiera życzenia od członków KMF „Sagitta” dla pracowników i artystów związanych z BWA.",
+    "image_url": "https://kmfsagitta.pl/wp-content/uploads/2025/05/491215156_1225225855642273_374560709837258017_n-1.jpg",
+    "external_link": "https://kmfsagitta.pl/2025/05/31/almanach-biura-wystaw-artystycznych-w-sieradzu/",
+    "published_at": "2026-02-26 14:36:58.040799+00",
+    "is_featured": false
+  },
+  {
+    "id": 5,
+    "title": "Almanach tolkienowski. Tolkien w Fantastyce i Nowej Fantastyce",
+    "subtitle": "",
+    "description": "Nasza nowa publikacja jest już dostępna! Almanach tolkienowski to spis artykułów, wywiadów, recenzji i innych tekstów, które pojawiły się na łamach magazynu Fantastyka i Nowa Fantastyka w latach 1982-2009. Kruszon spisał nie tylko artykuły, które dotyczyły twórczości profesora Tolkiena, ale także te, w których pojawiają się nawiązania do jego twórczości. Możecie zobaczyć owoce tej pracy i poznać, co i jak myśleli wcześniejsi miłośnicy twórczości Tolkiena. W publikacji znajduje się ponad 420 tekstów, dzięki którym poczujecie ducha Śródziemia. Między innymi odnajdziecie pierwszy tekst poświęcony Tolkienowi, reklamę klubu czy teksty ze złotej ery magazynu z lat 90. Jeśli jesteście miłośnikami twórczości Mistrza to na pewno znajdziecie coś dla siebie a Almanach zachęci was do dalszych poszukiwań i odkrywania ciekawostek związanych z autorem.",
+    "image_url": "https://kmfsagitta.pl/wp-content/uploads/2025/03/image-1.png",
+    "external_link": "https://kmfsagitta.pl/2025/03/19/almanach-tolkienowski-tolkien-w-fantastyce-i-nowej-fantastyce/",
     "published_at": "2026-02-26 14:36:58.040799+00",
     "is_featured": false
   }
